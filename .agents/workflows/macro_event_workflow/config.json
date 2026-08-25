@@ -1,0 +1,7 @@
+{
+  "workflow_name": "macro_event_workflow",
+  "version": "1.0.0",
+  "enabled": true,
+  "schedule": "",
+  "settings": {}
+}

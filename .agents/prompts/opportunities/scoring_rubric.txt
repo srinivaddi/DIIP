@@ -1,0 +1,19 @@
+DIIP Stock Scoring Rubric
+
+To calculate opportunity ranking, score each stock ticker from 0 to 100 based on the following framework:
+
+1. Thematic Pure-Play Exposure (Up to 40 points):
+   - 40 pts: Company's revenue is >80% driven by the theme.
+   - 25 pts: Company is a key value-chain enabler.
+   - 10 pts: Secondary/derivative exposure.
+
+2. Macro Alignment (Up to 20 points):
+   - 20 pts: Positive exposure to current Macro regime (e.g. high interest rates benefit financial/value stocks).
+   - 10 pts: Neutral exposure.
+
+3. Flow Sentiment (Up to 20 points):
+   - 20 pts: Strong net positive ETF and institutional inflows over the past 30 days.
+   - 0 pts: Negative/heavy outflows.
+
+4. Financial / Valuation Health (Up to 20 points):
+   - 20 pts: Strong earnings growth, stable/widening margins, and trading below historical P/E median.

@@ -1,0 +1,7 @@
+{
+  "workflow_name": "earnings_transcript_workflow",
+  "version": "1.0.0",
+  "enabled": true,
+  "schedule": "",
+  "settings": {}
+}

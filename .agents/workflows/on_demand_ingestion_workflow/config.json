@@ -1,0 +1,7 @@
+{
+  "workflow_name": "on_demand_ingestion_workflow",
+  "version": "1.0.0",
+  "enabled": true,
+  "schedule": "",
+  "settings": {}
+}

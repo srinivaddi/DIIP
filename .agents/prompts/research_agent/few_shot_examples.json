@@ -1,0 +1,16 @@
+[
+  {
+    "input": "BlackRock CIO: We are increasing our overweight position in AI infrastructure. The buildout of datacenters continues to accelerate, benefiting semi manufacturers like Nvidia and power solution companies.",
+    "output": {
+      "themes": [
+        {
+          "name": "AI Infrastructure",
+          "stance": "Bullish",
+          "sectors": ["Semiconductors", "Utilities", "Power Generation"],
+          "tickers_mentioned": ["NVDA"],
+          "confidence_score": 0.95
+        }
+      ]
+    }
+  }
+]

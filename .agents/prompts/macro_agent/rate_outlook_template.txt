@@ -1,0 +1,14 @@
+Analyze the following central bank statements and macro datasets to forecast the interest rate outlook.
+
+Target Indicators:
+- Core CPI Change: {{core_cpi}}
+- Employment Data: {{employment_data}}
+- Fed Funds Rate Target: {{fed_funds_rate}}
+
+Historical Central Bank Minutes:
+{{minutes_summary}}
+
+Evaluate if the likelihood is higher for:
+1. Rate Cut / Easing
+2. Rate Hike / Tightening
+3. Pause / Status Quo

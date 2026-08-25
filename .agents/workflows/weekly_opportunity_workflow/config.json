@@ -1,0 +1,7 @@
+{
+  "workflow_name": "weekly_opportunity_workflow",
+  "version": "1.0.0",
+  "enabled": true,
+  "schedule": "",
+  "settings": {}
+}

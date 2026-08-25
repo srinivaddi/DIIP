@@ -1,0 +1,7 @@
+{
+  "workflow_name": "portfolio_review_workflow",
+  "version": "1.0.0",
+  "enabled": true,
+  "schedule": "",
+  "settings": {}
+}

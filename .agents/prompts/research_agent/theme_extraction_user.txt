@@ -1,0 +1,14 @@
+Please extract investment themes from the following institutional report:
+
+---
+Institution: {{institution}}
+Date: {{publish_date}}
+Report Text:
+{{report_content}}
+---
+
+Return only structured themes, identifying:
+- Theme Name
+- Bullish/Bearish/Neutral Stance
+- Specific sector exposures
+- Associated key tickers mentioned
